@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Poh Peng and currently I am based in Singapore. I travel to Hong Kong often as I enjoy its culture and food! 
+
+Currently I am working as a Platform Engineer in SPH Media Trust to improve developer productivity!
+
 [![thepoppingone's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepoppingone)](https://github.com/thepoppingone/github-readme-stats)
 
 <!--
